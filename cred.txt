@@ -1,2 +1,0 @@
-access_key="abgshjrd"
-secrete_access_key="cbhuyyeui"
